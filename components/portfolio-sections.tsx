@@ -521,7 +521,7 @@ export function PortfolioSections() {
 >
   <a
     className="text-link"
-    href="https://www.linkedin.com/in/piyush-bipin-varule-04670932/"
+    href="https://www.linkedin.com/in/piyush-bipin-varule-04670932b/"
     target="_blank"
     rel="noopener noreferrer"
   >
